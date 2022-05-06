@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G2C</string>
+    <string name="delete">Delete</string>
+    <string name="delete_warning">Delete?</string>
+    <string name="error_already_exist">item already exist</string>
+    <string name="error_for_empty_list">cant be empty</string>
+</resources>
