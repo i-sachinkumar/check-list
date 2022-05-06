@@ -110,9 +110,6 @@ class CheckListActivity : AppCompatActivity() {
             true
         }
 
-
-
-
         // onEventChangedListener
         mChildEventListener  = object : ChildEventListener {
             override fun onChildAdded(snapshot: DataSnapshot, previousChildName: String?) {
