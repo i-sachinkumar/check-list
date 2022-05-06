@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td>
-      <image src="images/tictactoe1.jpg"></image>
+      <image src="images/img1.jpg"></image>
     </td>
     <td>
-      <image src="images/tictactoe2.jpg"></image>
+      <image src="images/img2.jpg"></image>
     </td>
     <td>
-      <image src="images/tictactoe2.jpg"></image>
+      <image src="images/img3.jpg"></image>
     </td>
   </tr>
  </table>
