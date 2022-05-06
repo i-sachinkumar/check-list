@@ -12,10 +12,7 @@
     <td>
       <image src="images/img3.jpg"></image>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <image src="images/firebase.jpg"></image>
-    </td>
-  </tr>
+  </tr>   
  </table>
+ 
+  <image src="images/firebase.png"></image>
